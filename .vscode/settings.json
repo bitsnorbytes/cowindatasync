@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c83cfa69-bc51-4426-a386-c778a210b3a9/resourceGroups/Punyasloka-Space/providers/Microsoft.Web/sites/cwindata",
+    "appService.deploySubpath": "webappbackend"
+}
